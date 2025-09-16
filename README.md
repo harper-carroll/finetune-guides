@@ -1,6 +1,6 @@
 # Fine-tuning Mistral 7B using QLoRA
 
-A comprehensive tutorial for fine-tuning the Mistral 7B model using Quantized Low-Rank Adaptation (QLoRA) on the VIGGo dataset for meaning representation tasks. 
+A comprehensive tutorial for fine-tuning the Mistral 7B model using Quantized Low-Rank Adaptation (QLoRA) on the ViGGO dataset for meaning representation tasks. 
 
 ### We use the [Nebius AI Cloud](https://nebius.com/services/studio-inference-service?utm_medium=cpc&utm_source=yoloco&utm_campaign=harpercarrollai).
 
@@ -174,7 +174,7 @@ This project follows the licensing terms of the constituent libraries (Transform
 
 - Tutorial created by [Harper Carroll](https://github.com/harper-carroll)
 - Based on the Mistral 7B model by Mistral AI
-- Uses the VIGGo dataset from the GEM benchmark
+- Uses the ViGGO dataset from the GEM benchmark
 - Utilizes QLoRA methodology for efficient fine-tuning
 
 ## Social Links
