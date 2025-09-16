@@ -2,7 +2,7 @@
 
 A comprehensive tutorial for fine-tuning the Mistral 7B model using Quantized Low-Rank Adaptation (QLoRA) on the ViGGO dataset for meaning representation tasks. 
 
-### We use the [Nebius AI Cloud](https://nebius.com/services/studio-inference-service?utm_medium=cpc&utm_source=yoloco&utm_campaign=harpercarrollai).
+### We use the [Nebius AI Cloud](https://nebius.com/services/studio-inference-service?utm_medium=cpc&utm_source=yoloco&utm_campaign=harpercarrollai), who sponsored this content!
 
 ## Overview
 
